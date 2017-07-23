@@ -1,0 +1,13 @@
+# PDF Instructions
+*.pdf
+
+# Octave Libraries
+**/lib/
+
+# Data files
+*.txt
+*.mat
+
+# Submit tokens
+**/token.*
+
